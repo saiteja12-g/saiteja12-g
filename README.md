@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**saiteja12-g/saiteja12-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=saiteja12-g&label=Profile%20views&color=0e75b6&style=flat" alt="Sai Teja Gilukara" /> 
 </p>
@@ -32,7 +16,7 @@ Here are some ideas to get you started:
   
 🔭 I’m currently working with **LLMs, RAG models, Machine Learning and Deep Learning models, Software Development and Robotics**
 
-👨‍💻 All of my projects are available at [https://saiteja12-g.github.io/saitejag.github.io/](https://saiteja12-g.github.io/saitejag.github.io/)
+👨‍💻 All of my projects demos are available at [https://www.youtube.com/@saitejagilukara4744](https://www.youtube.com/@saitejagilukara4744)
 
 💬 Ask me about **Machine Learning, Deployment of AI models with AWS and GCP, Deep Learning, Robotics**
 
@@ -77,6 +61,7 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=saiteja12-g&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-six-psi-62.vercel.app/api?username=saiteja12-g&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <img width=325 align="center" src="https://github-readme-stats-six-psi-62.vercel.app/api/top-langs/?username=saiteja12-g&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
